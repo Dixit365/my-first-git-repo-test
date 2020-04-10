@@ -1,3 +1,4 @@
-it is another file
+this "it is another file" is replace also in feature-3 branch
 
 This file is modified locally in visual stdio code.
+this line is added under feature-2 branch locally 
